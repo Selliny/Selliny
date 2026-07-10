@@ -161,18 +161,6 @@ Meu objetivo é contribuir em projetos que valorizem qualidade de código, teste
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Selliny&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selliny&layout=compact&langs_count=8&theme=github_dark"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Selliny_Sampaio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selliny-sampaio/)
