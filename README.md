@@ -68,7 +68,7 @@ Também curso **Engenharia da Computação** e direciono meus estudos para arqui
 - APIs RESTful
 - Microsserviços
 - Clean Architecture
-- Arquitetura Hexagonal
+- Arquitetura Multitenant
 - SOLID
 - Design Patterns
 - Programação Orientada a Objetos
